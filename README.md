@@ -8,7 +8,7 @@
 This tutorial will loosely follow spaCy's [official tutorial](https://course.spacy.io/).  
 
 ## Code  
-1. [Introduction to spaCy](https://github.com/yuibi/spacy_tutorial/blob/master/code/01_intro_to_spacy.ipynb)  
+1. [Introduction to spaCy](https://github.com/yuibi/spacy_tutorial/blob/master/01_intro_to_spacy.ipynb)  
     - Installation  
     - Tokenization  
     - Stop words  
@@ -17,11 +17,11 @@ This tutorial will loosely follow spaCy's [official tutorial](https://course.spa
     - Part-of-speech (**POS**) tagger  
     - Named entity recognizer (**NER**)  
     - Syntactic dependency parser  
-2. [Intermediate spaCy](https://github.com/yuibi/spacy_tutorial/blob/master/code/02_intermediate_spacy.ipynb)  
+2. [Intermediate spaCy](https://github.com/yuibi/spacy_tutorial/blob/master/02_intermediate_spacy.ipynb)  
     - Word vectors  
     - Working with big dataset  
     - Pipelines  
-3. [Advanced spaCy](https://github.com/yuibi/spacy_tutorial/blob/master/code/03_advanced_spacy.ipynb)  
+3. [Advanced spaCy](https://github.com/yuibi/spacy_tutorial/blob/master/03_advanced_spacy.ipynb)  
     - Using GPU  
     - Model training  
     - Transfer learning from **BERT** (text classifier)  
@@ -83,7 +83,7 @@ This tutorial will loosely follow spaCy's [official tutorial](https://course.spa
 このチュートリアルはspaCyの[公式チュートリアル](https://course.spacy.io/)と[Megagon Labsのスライド](https://www.slideshare.net/MegagonLabs/ginza-cabocha-udpipe-stanford-nlp)、[オージス総研の記事](https://www.ogis-ri.co.jp/otc/hiroba/technical/similar-document-search/part4.html)を参考にしています。  
 
 ## コード  
-1. [spaCy初級](https://github.com/yuibi/spacy_tutorial/blob/master/code/ja_01_intro_to_spacy.ipynb)   
+1. [spaCy初級](https://github.com/yuibi/spacy_tutorial/blob/master/ja_01_intro_to_spacy.ipynb)   
     - spaCyとGiNZAのインストール  
     - トークン化  
     - ストップワード  
@@ -92,11 +92,11 @@ This tutorial will loosely follow spaCy's [official tutorial](https://course.spa
     - 品詞（**POS**）タグ付け  
     - 固有表現抽出（**NER**）  
     - 依存構文解析のラベル付け  
-2. [spaCy中級](https://github.com/yuibi/spacy_tutorial/blob/master/code/ja_02_intermediate_spacy.ipynb)  
+2. [spaCy中級](https://github.com/yuibi/spacy_tutorial/blob/master/ja_02_intermediate_spacy.ipynb)  
     - 単語ベクトル  
     - 大規模データ処理  
     - パイプライン処理  
-3. [spaCy上級](https://github.com/yuibi/spacy_tutorial/blob/master/code/ja_03_advanced_spacy.ipynb)  
+3. [spaCy上級](https://github.com/yuibi/spacy_tutorial/blob/master/ja_03_advanced_spacy.ipynb)  
     - GPUの使用  
     - モデル学習  
     - **日本語BERT**の転移学習（文書分類）  
