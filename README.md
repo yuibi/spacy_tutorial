@@ -51,7 +51,7 @@ This tutorial will loosely follow spaCy's [official tutorial](https://course.spa
     - Intent Detection ~~and Slot Filling~~  
     - Language modeling ([ULMFiT](https://arxiv.org/abs/1801.06146)-like language model is experimental)  
     - **Lemmatization**  
-    - ~~exical normalization~~  
+    - ~~Lexical normalization~~  
     - ~~Machine translation~~  
     - ~~Missing elements~~  
     - ~~Multi-task learning~~  
@@ -126,7 +126,7 @@ This tutorial will loosely follow spaCy's [official tutorial](https://course.spa
     - Intent Detection ~~and Slot Filling~~  
     - Language modeling ([ULMFiT](https://arxiv.org/abs/1801.06146)のようなLMは試験的)  
     - **Lemmatization（見出し語化）**  
-    - ~~exical normalization~~  
+    - ~~Lexical normalization~~  
     - ~~Machine translation~~  
     - ~~Missing elements~~  
     - ~~Multi-task learning~~  
